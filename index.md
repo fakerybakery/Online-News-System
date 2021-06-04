@@ -1,5 +1,4 @@
-| :warning: Please see our <a href="#main">main section</a> for more information. This section is just a copy of the README file.
-| ---
+⚠️ Please see our <a href="#main">main section</a> for more information. This section is just a copy of the README file.
 # Online News System
 Online News System powered by PHP 8. No database required. Auto-setup.
 Perfect for blogging and other stuff.
@@ -19,12 +18,13 @@ You also need access to the directories.
 
 **A NOTE:** This is the GitHub version, which is slimmed down.
 
-:warning: Designed to be uploaded in the root directory (`/`). Please change this code if you don't want it in the root directory.
+⚠️ Designed to be uploaded in the root directory (`/`). Please change this code if you don't want it in the root directory.
 
 
 UPDATES COMING SOON!
 
-Built with :heart: by <a href="https://github.com/fakerybakery">@FakeryBakery</a> in :bear: California, :us: United States.
+Built with ❤️ by <a href="https://github.com/fakerybakery">@FakeryBakery</a> in 🐻 California, 🇺🇸 United States.
 <a id="main"></a>
 # Main Section
-Online News System is a perfect platform for blogging, nows, 
+Online News System is a perfect platform for blogging, news, and more! The main features that ONS lacks are search and HTML-free systems! ONS is in beta (v0.0.1) so the CSS is simply awful, but I am planning to update it. Please note that the GitHub version is a slightly slimmet down version of this
+ONS is sort of like <a href="https://blot.im" target="_blank">Blot</a> but 100% free, open-sourced, and self-hosted.

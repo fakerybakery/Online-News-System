@@ -19,12 +19,12 @@ You also need access to the directories.
 
 **A NOTE:** This is the GitHub version, which is slimmed down.
 
-| :warning: Designed to be uploaded in the root directory (`/`). Please change this code if you don't want it in the root directory.
-| ---
+:warning: Designed to be uploaded in the root directory (`/`). Please change this code if you don't want it in the root directory.
+
 
 UPDATES COMING SOON!
 
 Built with :heart: by <a href="https://github.com/fakerybakery">@FakeryBakery</a> in :bear: California, :us: United States.
 <a id="main"></a>
 # Main Section
-Online News
+Online News System is a perfect platform for blogging, nows, 
